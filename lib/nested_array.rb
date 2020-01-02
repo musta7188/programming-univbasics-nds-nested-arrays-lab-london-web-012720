@@ -30,6 +30,8 @@ sorted_organic = ORGANIC_PRODUCE.sort
 sorted_conventional = CONVENTIONAL_PRODUCE.sort
 
 new_array2 = sorted_conventional, sorted_organic
+
+new_array2
 end
 
 def matrix_lookup(matrix, row, column)
